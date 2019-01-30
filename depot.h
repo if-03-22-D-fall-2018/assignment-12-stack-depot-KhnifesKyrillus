@@ -9,7 +9,7 @@ typedef struct DepotImplementation* Depot;
 
 struct Product 
 {
-    int serial_number;
+    int serial_no;
 };
 
 Depot create_depot();
